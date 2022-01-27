@@ -1,0 +1,86 @@
+INFO  12:45:56 Now listening on: http://localhost:35485
+INFO  12:45:56 Now listening on: http://localhost:35485
+INFO  12:45:56 Application started. Press Ctrl+C to shut down.
+INFO  12:45:56 Application started. Press Ctrl+C to shut down.
+INFO  12:45:56 Hosting environment: Development
+INFO  12:45:56 Hosting environment: Development
+INFO  12:45:56 Content root path: /Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI
+INFO  12:45:56 Content root path: /Users/saurabhawasthi/Desktop/Microservices/DigitalHonorsCloudProject/JWTAuthenticationAPI/JWTAuthenticationAPI
+INFO  12:46:12 AuthenticationRepository constructor initiated.
+INFO  12:46:12 AuthProvider constructor initiated.
+INFO  12:46:12 AuthController constructor initiated.
+INFO  12:46:21 AuthController AuthenticateUser method initiated.
+INFO  12:46:21 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  12:46:21 Token generation started
+INFO  12:46:21 User Credentials are correct.
+INFO  12:46:21 Token is generated successfully.
+INFO  12:46:21 Token string is returned to the Controller.
+INFO  12:46:21 Authorized User.
+INFO  12:46:26 AuthenticationRepository constructor initiated.
+INFO  12:46:26 AuthProvider constructor initiated.
+INFO  12:46:26 AuthController constructor initiated.
+INFO  12:46:26 AuthController AuthenticateUser method initiated.
+INFO  12:46:26 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  12:46:26 Token generation started
+INFO  12:46:26 User Credentials are not correct so token cannot be generated.
+INFO  12:46:26 Token string is returned to the Controller.
+INFO  12:46:26 Unauthorized User.
+INFO  12:52:02 AuthenticationRepository constructor initiated.
+INFO  12:52:02 AuthProvider constructor initiated.
+INFO  12:52:02 AuthController constructor initiated.
+INFO  12:52:02 AuthController AuthenticateUser method initiated.
+INFO  12:52:02 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  12:52:02 Token generation started
+INFO  12:52:02 User Credentials are correct.
+INFO  12:52:02 Token is generated successfully.
+INFO  12:52:02 Token string is returned to the Controller.
+INFO  12:52:02 Authorized User.
+INFO  12:52:12 AuthenticationRepository constructor initiated.
+INFO  12:52:12 AuthProvider constructor initiated.
+INFO  12:52:12 AuthController constructor initiated.
+INFO  12:52:20 AuthenticationRepository constructor initiated.
+INFO  12:52:20 AuthProvider constructor initiated.
+INFO  12:52:20 AuthController constructor initiated.
+INFO  12:52:33 AuthenticationRepository constructor initiated.
+INFO  12:52:33 AuthProvider constructor initiated.
+INFO  12:52:33 AuthController constructor initiated.
+INFO  12:52:49 AuthenticationRepository constructor initiated.
+INFO  12:52:49 AuthProvider constructor initiated.
+INFO  12:52:49 AuthController constructor initiated.
+INFO  12:54:35 AuthenticationRepository constructor initiated.
+INFO  12:54:35 AuthProvider constructor initiated.
+INFO  12:54:35 AuthController constructor initiated.
+INFO  01:00:29 AuthenticationRepository constructor initiated.
+INFO  01:00:29 AuthProvider constructor initiated.
+INFO  01:00:29 AuthController constructor initiated.
+INFO  01:00:29 AuthController AuthenticateUser method initiated.
+INFO  01:00:29 In AuthenticateUser method of the provider.Repository GenerateToken function is called.
+INFO  01:00:29 Token generation started
+INFO  01:00:29 User Credentials are correct.
+INFO  01:00:29 Token is generated successfully.
+INFO  01:00:29 Token string is returned to the Controller.
+INFO  01:00:29 Authorized User.
+INFO  01:00:47 AuthenticationRepository constructor initiated.
+INFO  01:00:47 AuthProvider constructor initiated.
+INFO  01:00:47 AuthController constructor initiated.
+INFO  01:00:48 AuthenticationRepository constructor initiated.
+INFO  01:00:48 AuthProvider constructor initiated.
+INFO  01:00:48 AuthController constructor initiated.
+INFO  01:00:52 AuthenticationRepository constructor initiated.
+INFO  01:00:52 AuthProvider constructor initiated.
+INFO  01:00:52 AuthController constructor initiated.
+INFO  01:00:52 AuthenticationRepository constructor initiated.
+INFO  01:00:52 AuthProvider constructor initiated.
+INFO  01:00:52 AuthController constructor initiated.
+INFO  01:00:59 AuthenticationRepository constructor initiated.
+INFO  01:00:59 AuthProvider constructor initiated.
+INFO  01:00:59 AuthController constructor initiated.
+INFO  01:00:59 AuthenticationRepository constructor initiated.
+INFO  01:00:59 AuthProvider constructor initiated.
+INFO  01:00:59 AuthController constructor initiated.
+INFO  01:01:06 AuthenticationRepository constructor initiated.
+INFO  01:01:06 AuthProvider constructor initiated.
+INFO  01:01:06 AuthController constructor initiated.
+INFO  01:01:07 AuthenticationRepository constructor initiated.
+INFO  01:01:07 AuthProvider constructor initiated.
+INFO  01:01:07 AuthController constructor initiated.
